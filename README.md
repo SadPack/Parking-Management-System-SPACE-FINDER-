@@ -45,7 +45,7 @@ Parking Management System is a web application developed using PHP, MySQL, HTML,
 * CSS
 * JavaScript
 
-####How to Run the Project
+#### How to Run the Project
 
 1. Clone or download this project into your XAMPP or WAMP htdocs folder.
 2. Start Apache and MySQL.
