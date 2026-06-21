@@ -10,7 +10,7 @@ Parking Management System is a web application developed using PHP, MySQL, HTML,
 * Vehicles: create via admin vehicle entry, read via admin and customer views, update via marking a vehicle as exited, delete via admin
 * Payments: create automatically on vehicle entry, read via admin and customer views, update via customer marking a payment as paid
 
-####Security Features
+#### Security Features
 
 * Passwords are hashed using bcrypt (PHP password_hash and password_verify), never stored in plaintext
 * All database queries use parameterized prepared statements to prevent SQL Injection
